@@ -1,0 +1,40 @@
+# Build folders
+build/
+dist/
+target/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GlassFish
+glassfish/
+domains/
+
+# Database
+*.sql
+*.db
+
+# Temp
+tmp/
+temp/
